@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">SmartFinance</string>
+
+    <string name="News">News</string>
+    <string name="action_internet">Browser</string>
+    <string name="action_share">Share</string>
+    <string name="Refresh">Refresh</string>
+
+
+
+</resources>
